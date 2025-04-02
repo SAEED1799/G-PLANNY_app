@@ -8,6 +8,8 @@ The name **GPLANNY** comes from "GROUP PLANNY," which stands for group planning 
 
 ### 🎨 Logo
 The logo is designed with interesting colors symbolizing love and shared life among people.
+![image](https://user-images.githubusercontent.com/73116797/146675064-14addedd-3701-4961-ada5-2da7955fc636.png)
+
 
 ## 📖 Overview
 GPLANNY is an app developed by team members using the **DART** programming language, implemented in 2017 by **GOOGLE**. Its key advantage is versatility—it supports multiple platforms beyond Android. The app integrates **FIREBASE** as its database, storing user data and activities.
